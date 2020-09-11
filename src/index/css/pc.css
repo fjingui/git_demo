@@ -1,0 +1,23 @@
+.logospan{
+    padding-left: 5px;
+}
+footer{
+    text-align: center;
+}
+.leftcontainer{
+    width:400px;
+    height: 800px;
+    float:left;
+    background:lightblue;
+}
+.container{
+    padding: 10px;
+}
+.topNewsList{
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+}
